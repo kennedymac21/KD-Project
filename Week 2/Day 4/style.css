@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates:900');
+
+
+
+h1 {
+    color: #673AB7;
+    margin: 20px;
+    padding: 20px;
+}
+.text {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+}
